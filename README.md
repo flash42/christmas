@@ -4,7 +4,7 @@ Your task is to print a christmas tree. You will need to follow the instructions
 
 Good luck with your winter adventure!
 ```
-		    \ /
+            \ /
           -->*<--
             /_\
            /_\_\
